@@ -41,6 +41,7 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GH_TOKEN}}
       NUMBER: ${{ github-event.issue.number}}
       REPO: >
-        O bucket S3 foi criado com sucesso! c:\Users\camar\Downloads\festejo.jpg
+        O bucket S3 foi criado com sucesso!
+
 
        
